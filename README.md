@@ -1,4 +1,4 @@
 resume
 ======
 
-my chinese resume
+My resume
